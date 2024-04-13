@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987832321571",
+    "project_id": "dbremotefit",
+    "storage_bucket": "dbremotefit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987832321571:android:8af9ad3d02578771dfd396",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX2fiLeCAeIFTVsZCbcyekUxY-IVSJHx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
